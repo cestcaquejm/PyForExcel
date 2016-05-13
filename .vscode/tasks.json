@@ -4,6 +4,6 @@
     "version": "0.1.0",
     "command": "C:\\Users\\Admini\\AppData\\Local\\Programs\\Python\\Python35-32\\python.exe",
     "isShellCommand": true,
-    "args": ["${file}", "pythontest.xlsx"],
+    "args": ["${file}", "pythontest.xlsx", "1"],
     "showOutput": "always"
 }
